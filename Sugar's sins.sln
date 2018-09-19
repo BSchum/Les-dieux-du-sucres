@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sugar's sins", "Sugar's sins.csproj", "{D447F391-6C46-716E-6B97-B07EF29DE004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sugar's sins.Plugins", "Sugar's sins.Plugins.csproj", "{F7532F34-BE73-CB33-7185-C1E651CE42BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sugar's sins.Editor.Plugins", "Sugar's sins.Editor.Plugins.csproj", "{075819DD-A34D-8AD9-154E-D08854D17660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D447F391-6C46-716E-6B97-B07EF29DE004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D447F391-6C46-716E-6B97-B07EF29DE004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D447F391-6C46-716E-6B97-B07EF29DE004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D447F391-6C46-716E-6B97-B07EF29DE004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7532F34-BE73-CB33-7185-C1E651CE42BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7532F34-BE73-CB33-7185-C1E651CE42BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7532F34-BE73-CB33-7185-C1E651CE42BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7532F34-BE73-CB33-7185-C1E651CE42BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{075819DD-A34D-8AD9-154E-D08854D17660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075819DD-A34D-8AD9-154E-D08854D17660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075819DD-A34D-8AD9-154E-D08854D17660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075819DD-A34D-8AD9-154E-D08854D17660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
